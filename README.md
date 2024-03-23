@@ -16,3 +16,10 @@ Run the game with
 ```bash
   python3 alien_invasion.py
 ```
+
+### How to run it if you already have everything installed.
+1. Cd into your project dir
+2. Run `source venv/bin/activate`
+3. Run `python3 alien_invasion.py` to build and run the project
+
+
